@@ -1,0 +1,53 @@
+* {
+  text-align: center;
+  background-color: #EAF0CE;
+  font-family: 'Old Standart TT', serif;
+  color: #443850;
+}
+
+h1, #subtitle, h2 {
+  font-family: Cabin, sans-serif;
+}
+
+#subtitle {
+  font-size: 20px;
+}
+
+li {
+  text-align: left;
+  font-size: 20px;
+}
+
+#img-div {
+  background-color: #C0C5C1;
+  display: block;
+}
+
+#image {
+  max-width: 100%; 
+  display: inline-block;
+  height: auto;
+  margin-top: auto;
+}
+
+#img-caption {
+  background-color: #C0C5C1;
+  margin-bottom: 1%;
+}
+
+b {
+  font-family: cabin, sans-serif;
+}
+
+#wiki, #closing {
+  font-size: 30px;
+}
+
+.copyright {
+  text-align: left;
+  font-size: 20px;
+}
+
+footer {
+  background-color: #C0C5C1;
+}
